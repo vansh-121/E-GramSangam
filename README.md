@@ -1,2 +1,2 @@
-# E-GramSangam
- "An E-Portal developed by Team Unstoppable Achievers"
+# E-Portal-official
+An E-Portal For Development Of Education in Rural Areas
